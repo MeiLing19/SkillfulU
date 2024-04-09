@@ -8,7 +8,7 @@ SkillfulU hadir sebagai solusi inovatif yang memenuhi tuntutan zaman. Dengan mem
 SkillfulU bukan sekedar respons terhadap perubahan masyarakat, tetapi juga merupakan jawaban atas urgensi akan akses global terhadap pendidikan. Dengan memadukan teknologi canggih dan pendekatan pembelajaran yang inovatif, SkillfulU membawa revolusi dalam cara kita memandang dan mengakses pengetahuan.
 
 
-### Link Figma : https://bit.ly/lsgfigmaskillful
+#### Link Figma : https://bit.ly/lsgfigmaskillful
 
 
 
