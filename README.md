@@ -1,4 +1,4 @@
-# SkillfulU
+# SkillfulU - Aplikasi Belajar Online
 
 ## Latar Belakang
 
@@ -6,6 +6,11 @@ Dalam era digitalisasi yang melaju pesat, transformasi dalam bidang pendidikan m
 
 SkillfulU hadir sebagai solusi inovatif yang memenuhi tuntutan zaman. Dengan memberikan tingkat aksesibilitas yang tinggi, aplikasi ini tidak hanya menyediakan pembelajaran online, tetapi juga membawa fleksibilitas tanpa batas. Masyarakat modern yang dinamis membutuhkan pembelajaran yang dapat disesuaikan dengan kebutuhan individu, dan SkillfulU menjawab panggilan tersebut dengan beragam metode pembelajaran. Fitur-fitur unggulan seperti self-tracking, penjadwalan yang mudah, dan pembuatan catatan dengan antarmuka berwarna cerah membuat SkillfulU menjadi teman belajar yang menyenangkan. Warna dominan biru pada platformnya menciptakan atmosfer kesejukan, menegaskan semangat belajar dengan ketenangan dan santai.
 SkillfulU bukan sekedar respons terhadap perubahan masyarakat, tetapi juga merupakan jawaban atas urgensi akan akses global terhadap pendidikan. Dengan memadukan teknologi canggih dan pendekatan pembelajaran yang inovatif, SkillfulU membawa revolusi dalam cara kita memandang dan mengakses pengetahuan.
+
+
+### Link Figma : https://bit.ly/lsgfigmaskillful
+
+
 
 ## Antarmuka Website
 Antarmuka pada website dibuat semenarik mungkin untuk membuat pengguna nantinya dapat menggunakan aplikasi kursus online SkillfulU melalui platform lainnya yaitu desktop maupun mobile application. Desain yang menarik dapat memotivasi pengguna untuk terlibat secara aktif dalam pembelajaran online. Perbedaan besar yang ada pada tampilan website dan desktop yaitu pada layoutnya. Layout website memiliki struktur baris. Hal ini bertujuan untuk memberikan kesan visual yang minimalis dan menarik. Selain itu, ini juga dapat memudahkan pengguna dalam melakukan navigasi konten kursus online.
@@ -298,8 +303,3 @@ Tampilan Community di aplikasi mobile SkillfulU menjadi tempat dinamis bagi peng
 
 ![image](https://github.com/MeiLing19/SkillfulU/assets/94893138/0396bb0b-d949-4567-ba1d-85e9bf541437)
 ![image](https://github.com/MeiLing19/SkillfulU/assets/94893138/87847892-5e10-463e-8250-2800aa581121)
-
-
-
-
-
