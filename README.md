@@ -1,4 +1,4 @@
-# SkillfulU - Aplikasi Belajar Online
+# SkillfulU - Remote Learning Experience
 
 ## Latar Belakang
 
